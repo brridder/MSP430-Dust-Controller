@@ -15,3 +15,9 @@
 *.exe
 *.out
 *.app
+
+# Cross compiler stuff
+*.d
+*.elf
+*.hex
+*.map
